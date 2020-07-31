@@ -23,7 +23,8 @@ https://public.tableau.com/profile/natasha2059#!/vizhome/USSUniCategoryProfileRe
 Appendix notes:
 
 “This dataset should not be taken as peer-reviewed or final.” (https://www.profgalloway.com/uss-university?fbclid=IwAR3vqNaJCmLo0fQc1lnB9yaLZtDqNqwLP09t40P1P_b2k_eQZnw0k1WArKE)
-Comments on article (Comments on article (critiques to look into for potential next steps):
+
+Comments on article (critiques to look into for potential next steps):
 
 
 Michael
