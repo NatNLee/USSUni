@@ -9,21 +9,11 @@ Presentation Link:
 
 https://www.canva.com/design/DAEDZjHrqq8/HdoMcgABl9KGFCa4Al8mqA/view?utm_content=DAEDZjHrqq8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
-Tableau Links:
-
-Charts based on the original data set (preliminary researching, charts containing filters and other information used for the other 2 tableau workbooks)
-https://public.tableau.com/profile/natasha2059#!/vizhome/USSUni/10_RepresentativeSchoolforSurvive
-
-Category Profile Charts (using info from previous workbook above that was exported into the included excel sheet)
-https://public.tableau.com/profile/natasha2059#!/vizhome/USSUniCategoryProfilesVariableComparisons/ValueMetrics
-
-Charts using regression (using the conclusions from the previous workbooks for this final deep dive into the data subset)
-https://public.tableau.com/profile/natasha2059#!/vizhome/USSUniCategoryProfileRegressionn/SurviveVulnear2
 
 Appendix notes:
 
 “This dataset should not be taken as peer-reviewed or final.” (https://www.profgalloway.com/uss-university?fbclid=IwAR3vqNaJCmLo0fQc1lnB9yaLZtDqNqwLP09t40P1P_b2k_eQZnw0k1WArKE)
-Comments on article (Comments on article (critiques to look into for potential next steps):
+Comments on article (critiques look into for potential next steps):
 
 
 Michael
